@@ -35,7 +35,7 @@ A API também possui um endpoint que permite ao usuário organizar a lista da ma
 
 ```bash
 # Clonar repositório
-git clone https://github.com/matheusgmello/dslist-api
+git clone git@github.com:devsuperior/dslist-backend.git
 
 # Entrar na pasta do projeto back end
 cd dslist-backend
